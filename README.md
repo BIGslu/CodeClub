@@ -2,7 +2,7 @@
 
 A weekly gathering of bioinformaticians at South Lake Union to discuss new methods, build public code, and foster community. Suggest topics in this repo's issues!
 
-Thursdays at 10AM, Zoom
+Thursdays at 1 PM, Zoom
 
 Type              | Description
 ----------------- | -----------
