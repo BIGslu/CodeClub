@@ -18,5 +18,5 @@ Date   | Type              | Topic
 Sep 2  | Code review       | BIGpicture's first function: volcano plot https://github.com/BIGslu/CodeReview/tree/main/2021.08.24_volcano.plot
 Sep 9  | Mini-hackathon    | BIGpicture: Brainstorming useful bioinformatic plots and planning package development
 Sep 16 | Method discussion | Partial Least Squares Regression for Generalized Linear Models in R, plsRglm https://cran.r-project.org/web/packages/plsRglm/index.html
-Sep 23 | Workshop          | R packages: Making a package with custom functions
-Sep 30 | Workshop          | R packages: Documentation and examples
+Sep 23 | Workshop          | R packages: Making a package with custom functions https://github.com/BIGslu/workshops/tree/main/2021.09_R.package.workshop
+Sep 30 | Workshop          | R packages: Documentation and examples https://github.com/BIGslu/workshops/tree/main/2021.09_R.package.workshop
