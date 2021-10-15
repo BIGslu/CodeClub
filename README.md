@@ -16,7 +16,7 @@ Mini-hackathon    | In small groups, participants tackle current GitHub issues o
 Date    | Type              | Topic
 ------- | ----------------- | -------
 Nov 4   | Method discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
-Oct 28  | TBD | TBD
+Oct 28  | Workshop          | Intro R (preparation for i4TB on Nov 9)
 Oct 21  | TBD | TBD
 Oct 14  | Code review       | `kimma::kmFit( )` https://github.com/BIGslu/kimma
 Oct 7   | Method discussion | Generalized additive models (GAM) in R https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/
