@@ -16,12 +16,12 @@ Seminar discussion| Informal discussion of a recent seminar from i4TB https://tr
 
 Date    | Type              | Topic
 ------- | ----------------- | -------
-Dec 29  | |
-Dec 23  | 
+Dec 29  | Holiday |
+Dec 23  | Holiday |
 Dec 16  | Seminar discussion| i4TB from Dec 14
 Dec 9   | |
 Dec 2   | |
-Nov 25  | |
+Nov 25  | Holiday |
 Nov 18  | |
 Nov 11  | |
 Nov 4   | Method discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
