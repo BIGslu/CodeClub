@@ -10,13 +10,22 @@ Code review       | Aimed at improving code and solving problems, these sessions
 Hands-on workshop | Come ready to code-along or just watch these live-coded workshops! Specific instructions will be posted for each topic.
 Method discussion | These sessions provide informal discussion of current methods in bioinformatics. Members can submit topics such as R packages, journal articles, new software, etc. Please review any posted literature _**prior**_ to the session.
 Mini-hackathon    | In small groups, participants tackle current GitHub issues on BIGslu packages and code.
+Seminar discussion| Informal discussion of a recent seminar from i4TB https://trtc.uw.edu/education/i4tb-working-group
 
 ### Upcoming topics
 
 Date    | Type              | Topic
 ------- | ----------------- | -------
+Dec 29  | |
+Dec 23  | 
+Dec 16  | Seminar discussion| i4TB from Dec 14
+Dec 9   | |
+Dec 2   | |
+Nov 25  | |
+Nov 18  | |
+Nov 11  | |
 Nov 4   | Method discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
-Oct 28  | Workshop          | Intro R (preparation for i4TB on Nov 9)
+Oct 28  | Workshop          | Intro R in preparation for i4TB on Nov 9
 
 ### Past topics
 
