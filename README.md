@@ -24,12 +24,12 @@ Nov 25  |            | Holiday
 Nov 18  | |
 Nov 11  |            | Holiday
 Nov 4   | Discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
-Oct 28  | Workshop   | Intro R in preparation for i4TB on Nov 9
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Oct 28  | Workshop   | Intro R in preparation for i4TB on Nov 9 https://github.com/BIGslu/workshops/tree/main/2021.10.28_introR.workshop
 Oct 21  |             | Topics brainstorm
 Oct 14  | Code review | `kimma::kmFit( )` https://github.com/BIGslu/kimma
 Oct 7   | Discussion  | Generalized additive models (GAM) in R https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/
