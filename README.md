@@ -8,6 +8,7 @@ Type        | Description
 ----------- | -----------
 Code review | Aimed at improving code and solving problems, these sessions provide formal review of member-submitted code including discussion of function, documentation, best practices, etc. You can also provide feedback asyncronously online through GitHub. Please review the code _**prior**_ to the session. For details, see https://github.com/BIGslu/CodeReview
 Discussion  | These sessions provide informal discussion of current methods in bioinformatics. Members can submit topics such as R packages, journal articles, recent seminars, etc. Please review any posted literature _**prior**_ to the session.
+Hackathon   | Participants tackle current GitHub issues on BIGslu packages and code.
 Social      | No preparation necessary! Come meet fellow bioinformaticians and hear about the latest things going on with BIGslu
 Workshop    | Come ready to code-along or just watch these live-coded workshops! Specific instructions will be posted for each topic.
 
@@ -18,10 +19,10 @@ Date    | Type       | Topic
 Jan 6   | Social     | Learn about BIGslu, suggest up-coming topics, and meet new people!
 Dec 23-30|           | Holiday
 Dec 16  | Discussion | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
-Dec 9   | |
-Dec 2   | |
+Dec 9   | Workshop   | TBD
+Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
 Nov 25  |            | Holiday
-Nov 18  | |
+Nov 18  | Hackathon  | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
 Nov 11  |            | Holiday
 Nov 4   | Discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 
