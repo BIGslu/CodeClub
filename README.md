@@ -23,13 +23,13 @@ Dec 9   | Workshop   | TBD
 Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
 Nov 25  |            | Holiday
 Nov 18  | Hackathon  | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
-Nov 11  |            | Holiday
-Nov 4   | Discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Nov 11  |            | Holiday
+Nov 4   | Discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 Oct 28  | Workshop   | Intro R in preparation for i4TB on Nov 9 https://github.com/BIGslu/workshops/tree/main/2021.10.28_introR.workshop
 Oct 21  |             | Topics brainstorm
 Oct 14  | Code review | `kimma::kmFit( )` https://github.com/BIGslu/kimma
