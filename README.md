@@ -19,15 +19,16 @@ Date    | Type       | Topic
 Jan 6   | Social     | Learn about BIGslu, suggest up-coming topics, and meet new people!
 Dec 23-30|           | Holiday
 Dec 16  | Discussion | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
-Dec 9   | Workshop   | TBD
-Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
-Nov 25  |            | Holiday
-Nov 18  | Hackathon  | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
+Dec 9   | Discussion | Linear models with weights https://academic.oup.com/nar/article/43/7/e47/2414268
+
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
+Nov 25  |            | Holiday
+Nov 18  | Hackathon  | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
 Nov 11  |            | Holiday
 Nov 4   | Discussion | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 Oct 28  | Workshop   | Intro R in preparation for i4TB on Nov 9 https://github.com/BIGslu/workshops/tree/main/2021.10.28_introR.workshop
