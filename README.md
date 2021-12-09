@@ -19,13 +19,13 @@ Date    | Type       | Topic
 Jan 6   | Social     | Learn about BIGslu, suggest up-coming topics, and meet new people!
 Dec 23-30|           | Holiday
 Dec 16  | Discussion | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
-Dec 9   | Discussion | Main reading: Linear models with weights https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551905/ <br> Addtl background: limma https://academic.oup.com/nar/article/43/7/e47/2414268 <br> https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Dec 9   | Discussion | Main reading: Linear models with weights https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551905/ <br> Addtl background: limma https://academic.oup.com/nar/article/43/7/e47/2414268 <br> https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
 Nov 25  |            | Holiday
 Nov 18  | Hackathon  | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
