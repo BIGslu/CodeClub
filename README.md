@@ -2,7 +2,7 @@
 
 A weekly gathering of bioinformaticians at South Lake Union to discuss new methods, build public code, and foster community. Suggest topics in this repo's issues!
 
-Thursdays at 1 PM, Zoom
+Tuesdays at 2 PM, Zoom
 
 Type        | Description
 ----------- | -----------
@@ -16,15 +16,13 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type       | Topic
 ------- | ---------- | -------
-Jan 6   | Social     | Learn about BIGslu, suggest up-coming topics, and meet new people!
-Dec 23-30|           | Holiday
-Dec 16  | Discussion | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
-
+Jan 11  | Workshop   | i4TB: TCR analysis, Koshlan Mayer-Blackwell (Fred Hutch)
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Dec 16  | Discussion | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
 Dec 9   | Discussion | Main reading: Linear models with weights https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551905/ <br> Addtl background: limma https://academic.oup.com/nar/article/43/7/e47/2414268 <br> https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 Dec 2   | Discussion | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
 Nov 25  |            | Holiday
