@@ -16,10 +16,8 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Jan 18  | Discussion  | ggplot: Sharing tips and tricks to customize your plots
-Jan 25  | Workshop    | Introduction to R and RStudio
-Feb 1   | Code review | Elisabeth R.
-Feb 8   | i4TB seminar| TBD
+Feb 1   | Code review | Elisabeth R. https://github.com/earosenthal/MMPhewas
+Feb 8   | i4TB seminar| HealthAI at Amazon Web Services
 Feb 15  | Canceled    |
 Feb 22  | 
 Mar 1   | 
@@ -32,6 +30,8 @@ May 10  | i4TB workshop| TBD
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Jan 25  | Workshop    | Introduction to R and RStudio
+Jan 18  | Discussion  | ggplot: Sharing tips and tricks to customize your plots
 Jan 11  | Workshop    | i4TB: TCR analysis, Koshlan Mayer-Blackwell (Fred Hutch)
 Dec 16  | Discussion  | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
 Dec 9   | Discussion  | Main reading: Linear models with weights https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551905/ <br> Addtl background: limma https://academic.oup.com/nar/article/43/7/e47/2414268 <br> https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
