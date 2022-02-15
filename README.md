@@ -16,10 +16,7 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Feb 1   | Code review | Elisabeth R. https://github.com/earosenthal/MMPhewas
-Feb 8   | i4TB seminar| HealthAI at Amazon Web Services
-Feb 15  | Canceled    |
-Feb 22  | 
+Feb 22  | Discussion  | Rproject design and organization
 Mar 1   | 
 Mar 8   | i4TB workshop| Linear models in R
 Apr 12  | i4TB seminar | Introduction to the eScience Institute by Dr. Sarah Stone
@@ -30,6 +27,9 @@ May 10  | i4TB workshop| TBD
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Feb 15  | Canceled    |
+Feb 8   | i4TB seminar| HealthAI at Amazon Web Services
+Feb 1   | Code review | Elisabeth R. https://github.com/earosenthal/MMPhewas
 Jan 25  | Workshop    | Introduction to R and RStudio
 Jan 18  | Discussion  | ggplot: Sharing tips and tricks to customize your plots
 Jan 11  | Workshop    | i4TB: TCR analysis, Koshlan Mayer-Blackwell (Fred Hutch)
