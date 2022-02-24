@@ -16,9 +16,12 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Feb 22  | Discussion  | Rproject design and organization
-Mar 1   | 
+Mar 1   | Discussion  | TidyTuesday https://github.com/rfordatascience/tidytuesday
 Mar 8   | i4TB workshop| Linear models in R
+Mar 15  | |
+Mar 22  | |
+Mar 29  | |
+Apr 5   | |
 Apr 12  | i4TB seminar | Introduction to the eScience Institute by Dr. Sarah Stone
 May 10  | i4TB workshop| TBD
 
@@ -27,7 +30,7 @@ May 10  | i4TB workshop| TBD
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Feb 15  | Canceled    |
+Feb 22  | Discussion  | Rproject design and organization
 Feb 8   | i4TB seminar| HealthAI at Amazon Web Services
 Feb 1   | Code review | Elisabeth R. https://github.com/earosenthal/MMPhewas
 Jan 25  | Workshop    | Introduction to R and RStudio
@@ -39,7 +42,7 @@ Dec 2   | Discussion  | Controlling false discovery rate in genomics https://gen
 Nov 18  | Hackathon   | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
 Nov 4   | Discussion  | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 Oct 28  | Workshop    | Intro R in preparation for i4TB on Nov 9 https://github.com/BIGslu/workshops/tree/main/2021.10.28_introR.workshop
-Oct 21  |             | Topics brainstorm
+Oct 21  | Discussion  | Topics brainstorm
 Oct 14  | Code review | `kimma::kmFit( )` https://github.com/BIGslu/kimma
 Oct 7   | Discussion  | Generalized additive models (GAM) in R https://petolau.github.io/Analyzing-double-seasonal-time-series-with-GAM-in-R/
 Sep 30  | Workshop    | R packages: Documentation and examples https://github.com/BIGslu/workshops/tree/main/2021.09_R.package.workshop
