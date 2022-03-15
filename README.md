@@ -16,8 +16,7 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Mar 15  | |
-Mar 22  | |
+Mar 22  | Workshop    | Create gene set analysis package with Basilin
 Mar 29  | |
 Apr 5   | |
 Apr 12  | i4TB seminar | Introduction to the eScience Institute by Dr. Sarah Stone
@@ -28,6 +27,7 @@ May 10  | i4TB workshop| TBD
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Mar 15  | Discussion  | Topics brainstorm
 Mar 8   | worksho    | Linear models in R https://github.com/BIGslu/workshops/tree/main/2022.03.08_linear.model.workshop
 Mar 1   | Discussion  | TidyTuesday https://github.com/rfordatascience/tidytuesday
 Feb 22  | Discussion  | Rproject design and organization
