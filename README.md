@@ -6,20 +6,23 @@ Tuesdays at 2 PM, Zoom
 
 Type        | Description
 ----------- | -----------
-Code review | Aimed at improving code and solving problems, these sessions provide formal review of member-submitted code including discussion of function, documentation, best practices, etc. You can also provide feedback asyncronously online through GitHub. For details, see https://github.com/BIGslu/CodeReview
+Challenge   | Following TidyTuesday (https://github.com/rfordatascience/tidytuesday) or Advent of Code (https://adventofcode.com/2021), we work as a team to tackle coding challenges in R. Great for beginners! 
+Code review | Aimed at improving code and solving problems, these sessions provide formal review of member-submitted code. For details, see https://github.com/BIGslu/CodeReview
 Discussion  | These sessions provide informal discussion of current methods in bioinformatics. Members can submit topics such as R packages, journal articles, recent seminars, etc. Please review any posted literature _**prior**_ to the session.
-Hackathon   | Participants tackle current GitHub issues on BIGslu packages and code.
 i4TB        | Seminars and workshops in partnership with i4TB, https://trtc.uw.edu/education/i4tb-working-group
-Workshop    | Come ready to code-along or just watch these live-coded workshops! Specific instructions will be posted for each topic.
+Workshop    | Come ready to code-along or just watch these live-coded workshops! For details, see https://github.com/BIGslu/workshops
 
 ### Upcoming topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
 Mar 22  | Workshop    | Create gene set analysis package with Basilin
-Mar 29  | |
-Apr 5   | |
-Apr 12  | i4TB seminar | Introduction to the eScience Institute by Dr. Sarah Stone
+Mar 29  | | 
+Apr 5   | Challenge   | Advent of Code https://adventofcode.com/2021
+Apr 12  | i4TB seminar| Introduction to the eScience Institute by Dr. Sarah Stone
+Apr 19  | | 
+Apr 26  | | 
+May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
 May 10  | i4TB workshop| TBD
 
 
@@ -28,10 +31,10 @@ May 10  | i4TB workshop| TBD
 Date    | Type        | Topic
 ------- | ----------- | -------
 Mar 15  | Discussion  | Topics brainstorm
-Mar 8   | worksho    | Linear models in R https://github.com/BIGslu/workshops/tree/main/2022.03.08_linear.model.workshop
+Mar 8   | Workshop    | Linear models in R https://github.com/BIGslu/workshops/tree/main/2022.03.08_linear.model.workshop
 Mar 1   | Discussion  | TidyTuesday https://github.com/rfordatascience/tidytuesday
 Feb 22  | Discussion  | Rproject design and organization
-Feb 8   | Seminar     | HealthAI at Amazon Web Services
+Feb 8   | i4TB seminar| HealthAI at Amazon Web Services
 Feb 1   | Code review | Elisabeth R. https://github.com/earosenthal/MMPhewas
 Jan 25  | Workshop    | Introduction to R and RStudio
 Jan 18  | Discussion  | ggplot: Sharing tips and tricks to customize your plots
@@ -39,7 +42,7 @@ Jan 11  | Workshop    | i4TB: TCR analysis, Koshlan Mayer-Blackwell (Fred Hutch)
 Dec 16  | Discussion  | i4TB seminar from Dec 14 https://trtc.uw.edu/education/i4tb-working-group
 Dec 9   | Discussion  | Main reading: Linear models with weights https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4551905/ <br> Addtl background: limma https://academic.oup.com/nar/article/43/7/e47/2414268 <br> https://bioconductor.org/packages/release/bioc/vignettes/limma/inst/doc/usersguide.pdf
 Dec 2   | Discussion  | Controlling false discovery rate in genomics https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1716-1
-Nov 18  | Hackathon   | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
+Nov 18  | Workshop    | Introduction to how to contribute to BIGslu code and walk-through of completing a current GitHub issue and pull request
 Nov 4   | Discussion  | Working with SNP data in R, `bigsnpr` https://privefl.github.io/bigsnpr/articles/demo.html
 Oct 28  | Workshop    | Intro R in preparation for i4TB on Nov 9 https://github.com/BIGslu/workshops/tree/main/2021.10.28_introR.workshop
 Oct 21  | Discussion  | Topics brainstorm
