@@ -17,7 +17,7 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 Date    | Type        | Topic
 ------- | ----------- | -------
 Mar 22  | Workshop    | Create gene set analysis package with Basilin
-Mar 29  | | 
+Mar 29  | Discussion  | Missing data. What do you do when you have missing data? Imputation vs subsetting? Statistical methods that allow missing? Etc. Helpful reading https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0494-3
 Apr 5   | Challenge   | Advent of Code https://adventofcode.com/2021
 Apr 12  | i4TB seminar| Introduction to the eScience Institute by Dr. Sarah Stone
 Apr 19  | | 
