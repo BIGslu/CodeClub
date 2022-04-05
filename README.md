@@ -16,8 +16,8 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Apr 5   | Challenge   | Advent of Code https://adventofcode.com/2021
-Apr 12  | i4TB seminar| Introduction to the eScience Institute by Dr. Sarah Stone
+Apr 5   | Challenge   | Advent of Code, Day 4, https://adventoIfcode.com/2021/day/4
+Apr 12  | i4TB seminar| An Integrative Approach to Supporting Data Science Research & Education at the U of Washington, Dr. Sarah Stone
 Apr 19  | | 
 Apr 26  | | 
 May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
