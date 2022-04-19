@@ -6,7 +6,7 @@ Tuesdays at 2 PM, Zoom
 
 Type        | Description
 ----------- | -----------
-Challenge   | Following TidyTuesday (https://github.com/rfordatascience/tidytuesday) or Advent of Code (https://adventofcode.com/2021), we work as a team to tackle coding challenges in R. Great for beginners! 
+Challenge   | Following TidyTuesday (https://github.com/rfordatascience/tidytuesday), Advent of Code (https://adventofcode.com/2021), or tackling an open BIGslu GitHub issue, we work as a team to tackle coding challenges in R. Great for beginners! 
 Code review | Aimed at improving code and solving problems, these sessions provide formal review of member-submitted code. For details, see https://github.com/BIGslu/CodeReview
 Discussion  | These sessions provide informal discussion of current methods in bioinformatics. Members can submit topics such as R packages, journal articles, recent seminars, etc. Please review any posted literature _**prior**_ to the session.
 i4TB        | Seminars and workshops in partnership with i4TB, https://trtc.uw.edu/education/i4tb-working-group
@@ -16,10 +16,10 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Apr 19  | | 
+Apr 19  | Challenge   | BIGpicture::plot_gsea https://github.com/BIGslu/BIGpicture/issues/6
 Apr 26  | | 
 May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
-May 10  | i4TB workshop| TBD
+May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, Fergal Duffy
 
 
 ### Past topics
