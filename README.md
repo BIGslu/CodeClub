@@ -16,8 +16,6 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-Apr 19  | Challenge   | BIGpicture::plot_gsea https://github.com/BIGslu/BIGpicture/issues/6
-Apr 26  | | 
 May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
 May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, Fergal Duffy
 
@@ -26,6 +24,7 @@ May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, F
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+Apr 19  | Challenge   | BIGpicture::plot_gsea https://github.com/BIGslu/BIGpicture/issues/6
 Apr 12  | i4TB seminar| An Integrative Approach to Supporting Data Science Research & Education at the U of Washington, Dr. Sarah Stone
 Apr 5   | Challenge   | Advent of Code, Day 4, https://adventoIfcode.com/2021/day/4
 Mar 29  | Discussion  | Missing data. What do you do when you have missing data? Imputation vs subsetting? Statistical methods that allow missing? Etc. Helpful reading https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0494-3
