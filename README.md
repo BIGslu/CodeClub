@@ -16,14 +16,18 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
-May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, Fergal Duffy
-
+May 17  | | 
+May 24  | | 
+May 31  | | 
+Jun 7   | |
+Jun 14  | Social      | Join BIGslu along with i4TB and SEA-TRAC for our summer kick-off social!
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, Fergal Duffy https://github.com/fergaljd/i4TB/blob/main/i4TB-clustering-tutorial.Rmd
+May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
 Apr 19  | Challenge   | BIGpicture::plot_gsea https://github.com/BIGslu/BIGpicture/issues/6
 Apr 12  | i4TB seminar| An Integrative Approach to Supporting Data Science Research & Education at the U of Washington, Dr. Sarah Stone
 Apr 5   | Challenge   | Advent of Code, Day 4, https://adventoIfcode.com/2021/day/4
