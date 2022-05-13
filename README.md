@@ -16,7 +16,7 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-May 17  | | 
+May 17  | workshop    | Custom ggplot themes and scales 
 May 24  | | 
 May 31  | | 
 Jun 7   | |
