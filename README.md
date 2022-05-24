@@ -16,8 +16,8 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-May 31  | TBD | 
-Jun 7   | Challenge   | Advent of Code, https://adventoIfcode.com/2021/
+May 31  | Challenge   | Advent of Code, https://adventoIfcode.com/2021/
+Jun 7   | Cancelled   | 
 Jun 14  | Social      | Join BIGslu along with i4TB and SEA-TRAC for our summer kick-off social!
 
 ### Past topics
