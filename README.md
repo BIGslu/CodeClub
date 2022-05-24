@@ -16,16 +16,15 @@ Workshop    | Come ready to code-along or just watch these live-coded workshops!
 
 Date    | Type        | Topic
 ------- | ----------- | -------
-May 17  | workshop    | Custom ggplot themes and scales 
-May 24  | | 
-May 31  | | 
-Jun 7   | |
+May 31  | TBD | 
+Jun 7   | Challenge   | Advent of Code, https://adventoIfcode.com/2021/
 Jun 14  | Social      | Join BIGslu along with i4TB and SEA-TRAC for our summer kick-off social!
 
 ### Past topics
 
 Date    | Type        | Topic
 ------- | ----------- | -------
+May 17  | workshop    | Custom ggplot themes and scales, https://github.com/BIGslu/BinningSingletons
 May 10  | i4TB workshop| Dimensionality reduction and hierarchical clustering, Fergal Duffy https://github.com/fergaljd/i4TB/blob/main/i4TB-clustering-tutorial.Rmd
 May 3   | Challenge    | TidyTuesday https://github.com/rfordatascience/tidytuesday
 Apr 19  | Challenge   | BIGpicture::plot_gsea https://github.com/BIGslu/BIGpicture/issues/6
